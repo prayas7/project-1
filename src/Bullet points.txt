@@ -1,0 +1,3 @@
+href = The href attribute in HTML stands for "hypertext reference." It is used within <a> (anchor) tags to specify the URL (Uniform Resource Locator) of the page or resource that the link should point to. The href attribute is essential for creating hyperlinks, which allow users to navigate between different pages or resources on the web.
+
+In the app file there this term in line 7 called alt its means alternative term for our image.
